@@ -4,7 +4,7 @@ Este proyecto es una practica de react
 
 ## DEMO
 
-[Link del demo](https://rollingamesg3.netlify.app/)
+[Link del demo](https://listatareas16.netlify.app/)
 ## Librerias externas
 
 [Bootstrap](https://getbootstrap.com/)
